@@ -44,6 +44,7 @@ along with SwiFTP.  If not, see <http://www.gnu.org/licenses/>.
     <string name="chroot_label">Коренева папка доступу</string>
     <string name="accept_wifi_label">Приймати підключення по wifi</string>
     <string name="wakelock_label">Не давати заснути (максимальна продуктивність ЦП)</string>
+    <string name="writeExternalStorage_label">Запис зовнішнього сховища</string>
     <string name="extra_label">Додатково</string>
     <string name="help_label">Допомога...</string>
     <string name="about_label">Про додаток...</string>
